@@ -16,8 +16,6 @@ Este proyecto realiza un análisis exploratorio sobre un dataset simulado de ven
 - Identificación de patrones de ventas, productos y clientes
 
 ## 📊 Ejemplos de visualizaciones
-*(Agregar imágenes si querés)*  
-![Ejemplo de gráfico de ventas](img/ventas.png)
 
 ## 💡 Conclusiones
 - Las ventas se concentran en los rubros de fragancias y cuidado facial
@@ -30,4 +28,4 @@ Este proyecto realiza un análisis exploratorio sobre un dataset simulado de ven
 
 ---
 
-📬 Contacto: [linkedin.com/in/natalia...](#)  
+📬 Contacto: (https://www.linkedin.com/in/natalialiscio/)
