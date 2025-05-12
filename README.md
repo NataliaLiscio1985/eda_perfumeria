@@ -30,6 +30,13 @@ Este proyecto realiza un análisis exploratorio sobre un dataset simulado de ven
 - `eda_perfumeria.ipynb`: notebook con el análisis completo
 - `ventas_perfumeria.csv`: dataset utilizado (simulado)
 
+## 🧠 Próximos pasos sugeridos
+- Aplicar clustering para segmentar clientes
+- Implementar modelo de predicción de ventas por rubro
+- Crear dashboard interactivo en Power BI
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ---
 
 📬 Contacto: (https://www.linkedin.com/in/natalialiscio/)
