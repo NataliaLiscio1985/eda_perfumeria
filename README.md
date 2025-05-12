@@ -17,7 +17,6 @@ Este proyecto realiza un análisis exploratorio sobre un dataset simulado de ven
 
 ## 📊 Ejemplos de visualizaciones
 ![image](https://github.com/user-attachments/assets/bc1d26a2-7a56-4646-8808-57306c2a533c)
-![image](https://github.com/user-attachments/assets/213e82b6-37c7-43b5-a92c-45058ff2d023)
 ![image](https://github.com/user-attachments/assets/5520d6b7-4828-465f-b42b-bb31e75cbb8e)
 ![image](https://github.com/user-attachments/assets/0c6af146-2233-49c1-aa72-fcda763d314e)
 
@@ -34,8 +33,6 @@ Este proyecto realiza un análisis exploratorio sobre un dataset simulado de ven
 - Aplicar clustering para segmentar clientes
 - Implementar modelo de predicción de ventas por rubro
 - Crear dashboard interactivo en Power BI
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
